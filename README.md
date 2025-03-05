@@ -1,5 +1,6 @@
 <h1>Hi, I'm binky</h1>
-<p>A software dev from the Netherlands</p>
+<p>I'm currently studying for software developer</p>
+<p>I speak the languages english and dutch</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
@@ -19,3 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binky1615&" alt="binky1615" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=binky1615&show_icons=true&locale=en&layout=compact" alt="binky1615" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binky1615" alt="binky1615" /></a></p>
+<p>for people that are interested here's a link to my portfolio website <a target="_blank" href="https://github.com/binky1615/portofolio-website">here</a></p>
